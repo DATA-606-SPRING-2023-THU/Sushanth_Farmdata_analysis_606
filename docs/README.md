@@ -6,10 +6,10 @@
 # Links:
 
 **Presentation:**
-https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis/raw/main/docs/capstone.pptx
+https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis_606/raw/main/docs/capstone.pptx
 
 **Code:**
-https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis/blob/main/src/Project_final.ipynb
+https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis_606/blob/main/src/Project_final.ipynb
 
 **Youtube Video:**
 https://youtu.be/cYdxblP2br8
